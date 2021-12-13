@@ -1,0 +1,41 @@
+{
+  "global": {
+    "serverName": "IR Vintage",
+    "language": "en"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "restarterScheduleWarnings": [
+      30,
+      15,
+      10,
+      5,
+      4,
+      3,
+      2,
+      1
+    ]
+  },
+  "playerController": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": false,
+    "minSessionTime": 15,
+    "whitelistRejectionMessage": "You are not yet whitelisted in this server.\nPlease join http://discord.gg/example.\nYour Request ID: <id>",
+    "wipePendingWLOnStart": true
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": true,
+    "token": "OTE5NTA1NTc2MDgwMzE0Mzc4.YbWyTA.yh3P2jeEfXi08H7JwSgYWgAV8CA",
+    "announceChannel": "837924922705313853",
+    "prefix": "+",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "serverDataPath": "C:/Users/Administrator/Desktop/txData/QBCoreFramework_B60E31.base/",
+    "cfgPath": "C:/Users/Administrator/Desktop/txData/QBCoreFramework_B60E31.base/server.cfg",
+    "onesync": "on",
+    "autostart": true
+  }
+}

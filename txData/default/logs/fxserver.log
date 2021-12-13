@@ -1,0 +1,1359 @@
+
+================================================================
+======== FXServer starting - 12/13/2021, 4:30:21 AM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 128 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;161m[    c-scripting-core] Creating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] Started resource oxmysql
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource qalle_coords
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-busjob
+[38;5;73m[ citizen-server-impl] Started resource qb-busjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-discordac
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-input
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-menu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-notes
+[38;5;21m[     script:qb-notes] Error loading script server/main.lua in resource qb-notes: @qb-notes/server/main.lua:46: attempt to index a nil value (global 'Framework')
+[38;5;21m[     script:qb-notes] stack traceback:
+[38;5;21m[     script:qb-notes] 	@qb-notes/server/main.lua:46: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-notes
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-teleport
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;161m[    c-scripting-core] Creating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] Started resource PolyZone
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;161m[    c-scripting-core] Creating script environments for interact-sound
+[38;5;73m[ citizen-server-impl] Started resource interact-sound
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] Started resource screenshot-basic
+[38;5;163m[    c-resources-core] Could not find dependency /onesync for resource pma-voice.
+[38;5;73m[ citizen-server-impl] Couldn't start resource pma-voice.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;17m[     script:qb-radio] Error loading script server.lua in resource qb-radio: citizen:/scripting/lua/scheduler.lua:1155: No such export addChannelCheck in resource pma-voice
+[38;5;17m[     script:qb-radio] stack traceback:
+[38;5;17m[     script:qb-radio] 	[C]: in function 'error'
+[38;5;17m[     script:qb-radio] 	citizen:/scripting/lua/scheduler.lua:1155: in metamethod 'index'
+[38;5;17m[     script:qb-radio] 	@qb-radio/server.lua:24: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;73m[ citizen-server-impl] Started resource breze_benefactor
+[38;5;73m[ citizen-server-impl] Started resource hospital_map
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb_hi.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource 2018taurusrb
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.ytd uses 146.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo_hi.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack16Explorer
+[38;5;73m[ citizen-server-impl] Asset ValorPack18Charger/18chgr.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Started resource ValorPack18Charger
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe_hi.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack20Tahoe
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.yft uses 27.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.ytd uses 47.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource benze55
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.yft uses 18.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police_hi.yft uses 17.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource rmod69police
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz1.ytd uses 35.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz_hi.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/ti_b.yft uses 24.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource sclkuz
+[38;5;73m[ citizen-server-impl] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource sr650fly
+[38;5;73m[ citizen-server-impl] Asset R1-KsaPD/mrpd_txt.ytd uses 25.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset R1-KsaPD/mrpd_txt.ytd uses 25.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource R1-KsaPD
+[38;5;73m[ citizen-server-impl] Started resource sportracer
+[38;5;73m[ citizen-server-impl] Started resource hub_loading
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;154m[   script:mapmanager] Started map fivem-map-skater
+[38;5;73m[ citizen-server-impl] Started resource fivem-map-skater
+[38;5;42m[      script:oxmysql] Database server connection established!
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://barrett1-jvpark.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;42m[      script:oxmysql] A patch is available for oxmysql - please update to the latest release (current version: 1.8.0)
+[38;5;42m[      script:oxmysql]    - https://github.com/overextended/oxmysql/releases/download/v1.8.7/oxmysql-v1.8.7.zip
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;84m[      script:monitor] [txAdminClient] Sending resources list to txAdmin.
+[38;5;73m[ citizen-server-impl] Stopping resource sportracer
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] Jasem Biniaz (Citizen ID: WWL43516) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-clothing took 156ms to execute a query!
+[38;5;42m[      script:oxmysql]         DELETE FROM playerskins WHERE citizenid = ? ["WWL43516"]
+[38;5;42m[      script:oxmysql] [WARNING] qb-clothing took 159ms to execute a query!
+[38;5;42m[      script:oxmysql]         DELETE FROM playerskins WHERE citizenid = ? ["WWL43516"]
+[38;5;42m[      script:oxmysql] [WARNING] qb-clothing took 170ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO playerskins (citizenid, model, skin, active) VALUES (?, ?, ?, ?) ["WWL43516",1885233650,"{\"nose_2\":{\"item\":3,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"cheek_2\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"nose_0\":{\"item\":4,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"chimp_bone_width\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"decals\":{\"item\":38,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"nose_1\":{\"item\":4,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"chimp_bone_lowering\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"shoes\":{\"item\":51,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":1},\"mask\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"hair\":{\"item\":7,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"blush\":{\"item\":-1,\"defaultTexture\":1,\"texture\":1,\"defaultItem\":-1},\"arms\":{\"item\":20,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"accessory\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"eyebrown_forward\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"lipstick\":{\"item\":-1,\"defaultTexture\":1,\"texture\":1,\"defaultItem\":-1},\"watch\":{\"item\":-1,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"eye_color\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"bag\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"ear\":{\"item\":-1,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"face\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"bracelet\":{\"item\":-1,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"neck_thikness\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"makeup\":{\"item\":-1,\"defaultTexture\":1,\"texture\":1,\"defaultItem\":-1},\"glass\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"eyebrows\":{\"item\":2,\"defaultTexture\":1,\"texture\":1,\"defaultItem\":-1},\"nose_5\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"nose_3\":{\"item\":3,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"vest\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"t-shirt\":{\"item\":58,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":1},\"torso2\":{\"item\":317,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"jaw_bone_width\":{\"item\":3,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"beard\":{\"item\":1,\"defaultTexture\":1,\"texture\":1,\"defaultItem\":-1},\"jaw_bone_back_lenght\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"nose_4\":{\"item\":2,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"eyebrown_high\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"chimp_bone_lenght\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"cheek_3\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"hat\":{\"item\":-1,\"defaultTexture\":0,\"texture\":-1,\"defaultItem\":-1},\"chimp_hole\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"moles\":{\"item\":5,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"eye_opening\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"ageing\":{\"item\":5,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":-1},\"lips_thickness\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"cheek_1\":{\"item\":0,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0},\"pants\":{\"item\":24,\"defaultTexture\":0,\"texture\":0,\"defaultItem\":0}}",1]
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[38;5;42m[      script:oxmysql] [WARNING] qb-clothing took 202ms to execute a query!
+[38;5;42m[      script:oxmysql]         DELETE FROM playerskins WHERE citizenid = ? ["WWL43516"]
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 177 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 200 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 148 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 328ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"bank\":774270,\"cash\":100000000,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":false,\"isboss\":true,\"payment\":150,\"name\":\"police\",\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"Jasem Biniaz","position":"{\"x\":424.70770263671877,\"y\":-986.7824096679688,\"z\":30.7120361328125}","citizenid":"WWL43516","license":"license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211","cid":1,"metadata":"{\"bloodtype\":\"O+\",\"injail\":0,\"attachmentcraftingrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"hunger\":91.6,\"walletid\":\"QB-25454844\",\"thirst\":92.4,\"phone\":[],\"stress\":0,\"inlaststand\":false,\"commandbinds\":{\"F7\":{\"command\":\"\",\"argument\":\"\"},\"F6\":{\"command\":\"\",\"argument\":\"\"},\"F5\":{\"command\":\"\",\"argument\":\"\"},\"F9\":{\"command\":\"\",\"argument\":\"\"},\"F10\":{\"command\":\"\",\"argument\":\"\"},\"F2\":{\"command\":\"\",\"argument\":\"\"},\"F3\":{\"command\":\"\",\"argument\":\"\"}},\"callsign\":\"NO CALLSIGN\",\"currentapartment\":\"apartment21403\",\"craftingrep\":0,\"isdead\":false,\"status\":[],\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":93324640},\"ishandcuffed\":false,\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"fP052a41qbY5261\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"armor\":0,\"fitbit\":[],\"jobrep\":{\"hotdog\":0,\"taxi\":0,\"tow\":0,\"trucker\":0}}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"level\":0,\"name\":\"none\"}}","charinfo":"{\"phone\":\"1596695085\",\"birthdate\":\"2000-02-23\",\"account\":\"US08QBCore9801268918\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"biniazz\",\"cid\":\"1\",\"firstname\":\"jasem\",\"nationality\":\"iran\"}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] iMfarzam (Citizen ID: QNA31711) has succesfully loaded!
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 42994ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":9998000,\"bank\":9902883,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"name\":\"police\",\"payment\":150,\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"BARRETT","position":"{\"x\":466.3912048339844,\"y\":-983.6439208984375,\"z\":37.5699462890625}","citizenid":"LBH36723","license":"license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437","cid":1,"metadata":"{\"bloodtype\":\"O+\",\"phone\":[],\"armor\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"ishandcuffed\":false,\"walletid\":\"QB-39859376\",\"injail\":0,\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"stress\":0,\"callsign\":\"NO CALLSIGN\",\"inlaststand\":false,\"craftingrep\":0,\"currentapartment\":\"apartment1711\",\"attachmentcraftingrep\":0,\"isdead\":false,\"status\":[],\"phonedata\":{\"SerialNumber\":85129662,\"InstalledApps\":[]},\"commandbinds\":{\"F7\":{\"command\":\"\",\"argument\":\"\"},\"F6\":{\"command\":\"\",\"argument\":\"\"},\"F5\":{\"command\":\"\",\"argument\":\"\"},\"F10\":{\"command\":\"\",\"argument\":\"\"},\"F3\":{\"command\":\"\",\"argument\":\"\"},\"F2\":{\"command\":\"\",\"argument\":\"\"},\"F9\":{\"command\":\"\",\"argument\":\"\"}},\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"ls955G02JSq1640\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"hunger\":41.19999999999995,\"fitbit\":[],\"thirst\":46.80000000000004}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"level\":0,\"name\":\"none\"}}","charinfo":"{\"phone\":\"1678216434\",\"birthdate\":\"2000-02-07\",\"account\":\"US07QBCore8310270838\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Hashem\",\"nationality\":\"iran\"}"}
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;42m[      script:oxmysql] [WARNING] qb-inventory took 608ms to execute a query!
+[38;5;42m[      script:oxmysql]         SELECT items FROM stashitems WHERE stash = ? ["3 | Drawer 1"]
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;42m[      script:oxmysql] [WARNING] qb-inventory took 15269ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO stashitems (stash, items) VALUES (:stash, :items) ON DUPLICATE KEY UPDATE items = :items {"items":"[]","stash":"3 | Drawer 1"}
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 1153ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE players SET inventory = ? WHERE citizenid = ? ["[{\"amount\":1,\"slot\":1,\"name\":\"driver_license\",\"type\":\"item\",\"info\":{\"type\":\"Class C Driver License\",\"firstname\":\"Hashem\",\"lastname\":\"Biniaz\",\"birthdate\":\"2000-02-07\"}},{\"amount\":10,\"slot\":2,\"name\":\"lockpick\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":3,\"name\":\"id_card\",\"type\":\"item\",\"info\":{\"citizenid\":\"LBH36723\",\"lastname\":\"Biniaz\",\"birthdate\":\"2000-02-07\",\"firstname\":\"Hashem\",\"nationality\":\"iran\",\"gender\":0}},{\"amount\":1,\"slot\":4,\"name\":\"phone\",\"type\":\"item\",\"info\":[]}]","LBH36723"]
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 1154ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"bank\":9902883,\"cash\":9998000,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"name\":\"police\",\"payment\":150,\"grade\":{\"name\":\"Chief\",\"level\":4}}","name":"BARRETT","position":"{\"x\":-812.2417602539063,\"y\":182.53187561035157,\"z\":76.7288818359375}","citizenid":"LBH36723","license":"license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437","cid":1,"metadata":"{\"bloodtype\":\"O+\",\"phone\":[],\"attachmentcraftingrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"ishandcuffed\":false,\"walletid\":\"QB-39859376\",\"thirst\":46.80000000000004,\"armor\":0,\"stress\":0,\"inlaststand\":false,\"hunger\":41.19999999999995,\"injail\":0,\"currentapartment\":\"apartment1711\",\"jobrep\":{\"hotdog\":0,\"taxi\":0,\"tow\":0,\"trucker\":0},\"isdead\":false,\"status\":[],\"phonedata\":{\"SerialNumber\":85129662,\"InstalledApps\":[]},\"commandbinds\":{\"F7\":{\"command\":\"\",\"argument\":\"\"},\"F6\":{\"command\":\"\",\"argument\":\"\"},\"F5\":{\"command\":\"\",\"argument\":\"\"},\"F9\":{\"command\":\"\",\"argument\":\"\"},\"F10\":{\"command\":\"\",\"argument\":\"\"},\"F2\":{\"command\":\"\",\"argument\":\"\"},\"F3\":{\"command\":\"\",\"argument\":\"\"}},\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"ls955G02JSq1640\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"callsign\":\"NO CALLSIGN\",\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"phone\":\"1678216434\",\"birthdate\":\"2000-02-07\",\"account\":\"US07QBCore8310270838\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Hashem\",\"nationality\":\"iran\"}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 509ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE players SET inventory = ? WHERE citizenid = ? ["[{\"amount\":1,\"slot\":1,\"name\":\"id_card\",\"type\":\"item\",\"info\":{\"citizenid\":\"QNA31711\",\"lastname\":\"Biniaz\",\"birthdate\":\"1985-09-25\",\"firstname\":\"Ghasem\",\"nationality\":\"Iran\",\"gender\":0}},{\"amount\":1,\"slot\":2,\"name\":\"driver_license\",\"type\":\"item\",\"info\":{\"birthdate\":\"1985-09-25\",\"firstname\":\"Ghasem\",\"lastname\":\"Biniaz\",\"type\":\"Class C Driver License\"}},{\"amount\":1,\"slot\":3,\"name\":\"phone\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":4,\"name\":\"radio\",\"type\":\"item\",\"info\":[]},{\"amount\":46,\"slot\":5,\"name\":\"lockpick\",\"type\":\"item\",\"info\":[]}]","QNA31711"]
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 1828ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":30,\"bank\":1000000059330,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"payment\":150,\"name\":\"police\",\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"iMfarzam","position":"{\"x\":427.0681457519531,\"y\":-806.7033081054688,\"z\":29.4820556640625}","citizenid":"QNA31711","license":"license:a3a28e2be2fc70d86ea13c556c66a84811faaeae","cid":1,"metadata":"{\"bloodtype\":\"A-\",\"injail\":0,\"armor\":0,\"criminalrecord\":{\"hasRecord\":true,\"date\":{\"hour\":14,\"year\":2021,\"isdst\":false,\"wday\":1,\"yday\":346,\"sec\":32,\"day\":12,\"min\":35,\"month\":12}},\"tracker\":false,\"jailitems\":[],\"hunger\":66.39999999999998,\"walletid\":\"QB-85475674\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"callsign\":\"NO CALLSIGN\",\"stress\":44,\"inlaststand\":false,\"isdead\":false,\"ishandcuffed\":false,\"currentapartment\":\"apartment37162\",\"phone\":[],\"commandbinds\":[],\"status\":[],\"phonedata\":{\"SerialNumber\":85860494,\"InstalledApps\":[]},\"thirst\":69.60000000000002,\"licences\":{\"business\":false,\"driver\":true,\"weapon\":false},\"fingerprint\":\"Gl937T82FLH6458\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"attachmentcraftingrep\":0,\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"nationality\":\"Iran\",\"birthdate\":\"1985-09-25\",\"account\":\"US03QBCore7260674627\",\"backstory\":\"placeholder backstory\",\"card\":5820234242005831,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Ghasem\",\"phone\":\"1529235764\",\"gender\":0}"}
+[38;5;42m[      script:oxmysql] [WARNING] qb-clothing took 154ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO playerskins (citizenid, model, skin, active) VALUES (?, ?, ?, ?) ["QNA31711",-929103484,"{\"jaw_bone_width\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"hat\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"jaw_bone_back_lenght\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"beard\":{\"defaultItem\":-1,\"defaultTexture\":1,\"texture\":1,\"item\":-1},\"decals\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"torso2\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"chimp_hole\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"ear\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"eyebrows\":{\"defaultItem\":-1,\"defaultTexture\":1,\"texture\":1,\"item\":-1},\"lips_thickness\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"nose_3\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"makeup\":{\"defaultItem\":-1,\"defaultTexture\":1,\"texture\":1,\"item\":-1},\"nose_2\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"chimp_bone_lowering\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"eyebrown_forward\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"chimp_bone_width\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"bracelet\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"cheek_2\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"pants\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":2,\"item\":1},\"bag\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"chimp_bone_lenght\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"eyebrown_high\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"arms\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":2,\"item\":0},\"eye_color\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"ageing\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"cheek_1\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"eye_opening\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"accessory\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"hair\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"nose_4\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"nose_5\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"lipstick\":{\"defaultItem\":-1,\"defaultTexture\":1,\"texture\":1,\"item\":-1},\"shoes\":{\"defaultItem\":1,\"defaultTexture\":0,\"texture\":0,\"item\":1},\"blush\":{\"defaultItem\":-1,\"defaultTexture\":1,\"texture\":1,\"item\":-1},\"nose_0\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"t-shirt\":{\"defaultItem\":1,\"defaultTexture\":0,\"texture\":0,\"item\":1},\"neck_thikness\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"face\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"moles\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"glass\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"nose_1\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"watch\":{\"defaultItem\":-1,\"defaultTexture\":0,\"texture\":0,\"item\":-1},\"cheek_3\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"mask\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0},\"vest\":{\"defaultItem\":0,\"defaultTexture\":0,\"texture\":0,\"item\":0}}",1]
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 302ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":30,\"bank\":1000000059630,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"payment\":150,\"name\":\"police\",\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"iMfarzam","position":"{\"x\":-160.87911987304688,\"y\":-908.0703125,\"z\":28.9765625}","citizenid":"QNA31711","license":"license:a3a28e2be2fc70d86ea13c556c66a84811faaeae","cid":1,"metadata":"{\"bloodtype\":\"A-\",\"injail\":0,\"armor\":0,\"criminalrecord\":{\"hasRecord\":true,\"date\":{\"hour\":14,\"year\":2021,\"isdst\":false,\"wday\":1,\"yday\":346,\"sec\":32,\"day\":12,\"min\":35,\"month\":12}},\"tracker\":false,\"jailitems\":[],\"hunger\":53.79999999999997,\"walletid\":\"QB-85475674\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"callsign\":\"NO CALLSIGN\",\"stress\":44,\"inlaststand\":false,\"isdead\":false,\"ishandcuffed\":false,\"currentapartment\":\"apartment37162\",\"phone\":[],\"commandbinds\":[],\"status\":[],\"phonedata\":{\"SerialNumber\":85860494,\"InstalledApps\":[]},\"thirst\":58.20000000000003,\"licences\":{\"business\":false,\"driver\":true,\"weapon\":false},\"fingerprint\":\"Gl937T82FLH6458\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"attachmentcraftingrep\":0,\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"nationality\":\"Iran\",\"birthdate\":\"1985-09-25\",\"account\":\"US03QBCore7260674627\",\"backstory\":\"placeholder backstory\",\"card\":5820234242005831,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Ghasem\",\"phone\":\"1529235764\",\"gender\":0}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was removed from the connecting queue because they timed out
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 1060ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"bank\":9884826,\"cash\":9998000,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"name\":\"police\",\"payment\":150,\"grade\":{\"name\":\"Chief\",\"level\":4}}","name":"BARRETT","position":"{\"x\":413.1428527832031,\"y\":-1011.9296875,\"z\":29.3135986328125}","citizenid":"LBH36723","license":"license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437","cid":1,"metadata":"{\"bloodtype\":\"O+\",\"phone\":[],\"attachmentcraftingrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"ishandcuffed\":false,\"walletid\":\"QB-39859376\",\"thirst\":20.20000000000004,\"armor\":0,\"stress\":0,\"inlaststand\":false,\"hunger\":11.79999999999995,\"injail\":0,\"currentapartment\":\"apartment1711\",\"jobrep\":{\"hotdog\":0,\"taxi\":0,\"tow\":0,\"trucker\":0},\"isdead\":false,\"status\":[],\"phonedata\":{\"SerialNumber\":85129662,\"InstalledApps\":[]},\"commandbinds\":{\"F7\":{\"command\":\"\",\"argument\":\"\"},\"F6\":{\"command\":\"\",\"argument\":\"\"},\"F5\":{\"command\":\"\",\"argument\":\"\"},\"F9\":{\"command\":\"\",\"argument\":\"\"},\"F10\":{\"command\":\"\",\"argument\":\"\"},\"F2\":{\"command\":\"\",\"argument\":\"\"},\"F3\":{\"command\":\"\",\"argument\":\"\"}},\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"ls955G02JSq1640\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"callsign\":\"NO CALLSIGN\",\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"phone\":\"1678216434\",\"birthdate\":\"2000-02-07\",\"account\":\"US07QBCore8310270838\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Hashem\",\"nationality\":\"iran\"}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] blade (Citizen ID: HPE81703) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: Jasem Biniaz[license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] Jasem Biniaz (Citizen ID: WWL43516) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;199m[         script:chat] Jasem Biniaz: kit
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 169ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":30,\"bank\":1000000059980,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"payment\":150,\"name\":\"police\",\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"iMfarzam","position":"{\"x\":-382.4703369140625,\"y\":-393.23077392578127,\"z\":30.99853515625}","citizenid":"QNA31711","license":"license:a3a28e2be2fc70d86ea13c556c66a84811faaeae","cid":1,"metadata":"{\"bloodtype\":\"A-\",\"injail\":0,\"armor\":0,\"criminalrecord\":{\"hasRecord\":true,\"date\":{\"hour\":14,\"year\":2021,\"isdst\":false,\"wday\":1,\"yday\":346,\"sec\":32,\"day\":12,\"min\":35,\"month\":12}},\"tracker\":false,\"jailitems\":[],\"hunger\":70.59999999999998,\"walletid\":\"QB-85475674\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"callsign\":\"NO CALLSIGN\",\"stress\":0,\"inlaststand\":false,\"isdead\":false,\"ishandcuffed\":false,\"currentapartment\":\"apartment37162\",\"phone\":[],\"commandbinds\":[],\"status\":[],\"phonedata\":{\"SerialNumber\":85860494,\"InstalledApps\":[]},\"thirst\":73.40000000000002,\"licences\":{\"business\":false,\"driver\":true,\"weapon\":false},\"fingerprint\":\"Gl937T82FLH6458\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"attachmentcraftingrep\":0,\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"nationality\":\"Iran\",\"birthdate\":\"1985-09-25\",\"account\":\"US03QBCore7260674627\",\"backstory\":\"placeholder backstory\",\"card\":5820234242005831,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Ghasem\",\"phone\":\"1529235764\",\"gender\":0}"}
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 330ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE players SET inventory = ? WHERE citizenid = ? ["[{\"amount\":1,\"slot\":1,\"name\":\"id_card\",\"type\":\"item\",\"info\":{\"citizenid\":\"QNA31711\",\"lastname\":\"Biniaz\",\"birthdate\":\"1985-09-25\",\"firstname\":\"Ghasem\",\"nationality\":\"Iran\",\"gender\":0}},{\"amount\":1,\"slot\":2,\"name\":\"driver_license\",\"type\":\"item\",\"info\":{\"birthdate\":\"1985-09-25\",\"firstname\":\"Ghasem\",\"lastname\":\"Biniaz\",\"type\":\"Class C Driver License\"}},{\"amount\":1,\"slot\":3,\"name\":\"phone\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":4,\"name\":\"weapon_knife\",\"type\":\"weapon\",\"info\":{\"serie\":\"78rLH4pd834dYoa\",\"ammo\":0}},{\"amount\":44,\"slot\":5,\"name\":\"lockpick\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":6,\"name\":\"radio\",\"type\":\"item\",\"info\":[]}]","QNA31711"]
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-crypto took 169ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO crypto (worth, history) VALUES (:worth, :history) ON DUPLICATE KEY UPDATE worth = :worth, history = :history {"worth":61,"history":"[{\"PreviousWorth\":55,\"NewWorth\":61},{\"PreviousWorth\":1,\"NewWorth\":1},{\"PreviousWorth\":1,\"NewWorth\":1},{\"PreviousWorth\":1,\"NewWorth\":1}]"}
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 1 resources, and refreshed 126 resources.
+[38;5;73m[ citizen-server-impl] Started resource qua_lspd
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 716 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource R1-KsaPD
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] Jasem Biniaz PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 161ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":100000000,\"bank\":774570,\"crypto\":0}","job":"{\"label\":\"Garbage\",\"onduty\":true,\"isboss\":false,\"payment\":50,\"name\":\"garbage\",\"grade\":{\"level\":0,\"name\":\"Collector\"}}","name":"Jasem Biniaz","position":"{\"x\":-265.002197265625,\"y\":-963.5999755859375,\"z\":2.994140625}","citizenid":"WWL43516","license":"license:9fb8ce74be0dcbcf0ece884e2f33ad3f5dac3211","cid":1,"metadata":"{\"bloodtype\":\"O+\",\"injail\":0,\"attachmentcraftingrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"hunger\":91.6,\"walletid\":\"QB-25454844\",\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0},\"inlaststand\":false,\"stress\":0,\"callsign\":\"NO CALLSIGN\",\"armor\":0,\"thirst\":92.4,\"currentapartment\":\"apartment21403\",\"isdead\":false,\"commandbinds\":{\"F7\":{\"command\":\"\",\"argument\":\"\"},\"F6\":{\"command\":\"\",\"argument\":\"\"},\"F5\":{\"command\":\"\",\"argument\":\"\"},\"F3\":{\"command\":\"\",\"argument\":\"\"},\"F10\":{\"command\":\"\",\"argument\":\"\"},\"F2\":{\"command\":\"\",\"argument\":\"\"},\"F9\":{\"command\":\"\",\"argument\":\"\"}},\"status\":[],\"phonedata\":{\"InstalledApps\":[],\"SerialNumber\":93324640},\"ishandcuffed\":false,\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"fP052a41qbY5261\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"phone\":[],\"fitbit\":[],\"craftingrep\":0}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"name\":\"none\",\"level\":0}}","charinfo":"{\"phone\":\"1596695085\",\"birthdate\":\"2000-02-23\",\"account\":\"US08QBCore9801268918\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"biniazz\",\"cid\":\"1\",\"firstname\":\"jasem\",\"nationality\":\"iran\"}"}
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] iMfarzam (Citizen ID: QNA31711) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 185ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE players SET inventory = ? WHERE citizenid = ? ["[{\"amount\":1,\"slot\":1,\"name\":\"id_card\",\"type\":\"item\",\"info\":{\"citizenid\":\"QNA31711\",\"lastname\":\"Biniaz\",\"birthdate\":\"1985-09-25\",\"firstname\":\"Ghasem\",\"nationality\":\"Iran\",\"gender\":0}},{\"amount\":1,\"slot\":2,\"name\":\"driver_license\",\"type\":\"item\",\"info\":{\"type\":\"Class C Driver License\",\"firstname\":\"Ghasem\",\"lastname\":\"Biniaz\",\"birthdate\":\"1985-09-25\"}},{\"amount\":1,\"slot\":3,\"name\":\"weapon_knife\",\"type\":\"weapon\",\"info\":{\"serie\":\"78rLH4pd834dYoa\",\"ammo\":0}},{\"amount\":1,\"slot\":4,\"name\":\"cryptostick\",\"type\":\"item\",\"info\":\"\"},{\"amount\":44,\"slot\":5,\"name\":\"lockpick\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":6,\"name\":\"radio\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":7,\"name\":\"police_stormram\",\"type\":\"item\",\"info\":[]},{\"amount\":1,\"slot\":9,\"name\":\"phone\",\"type\":\"item\",\"info\":[]}]","QNA31711"]
+[38;5;73m[ citizen-server-impl] Stopping resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] blade (Citizen ID: HPE81703) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 154ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"cash\":5600,\"bank\":10986710,\"crypto\":0}","job":"{\"label\":\"Law Enforcement\",\"onduty\":true,\"isboss\":true,\"payment\":150,\"name\":\"police\",\"grade\":{\"level\":4,\"name\":\"Chief\"}}","name":"blade","position":"{\"x\":436.69451904296877,\"y\":-1026.10546875,\"z\":28.80810546875}","citizenid":"HPE81703","license":"license:e4d04c931036266745236ae6cb6d545cd3e4fa35","cid":1,"metadata":"{\"bloodtype\":\"B-\",\"injail\":0,\"attachmentcraftingrep\":0,\"criminalrecord\":{\"hasRecord\":false},\"tracker\":false,\"jailitems\":[],\"hunger\":91.6,\"walletid\":\"QB-55796236\",\"craftingrep\":0,\"phone\":[],\"stress\":0,\"inlaststand\":false,\"thirst\":92.4,\"ishandcuffed\":false,\"currentapartment\":\"apartment21403\",\"commandbinds\":[],\"isdead\":false,\"status\":[],\"phonedata\":{\"SerialNumber\":46672673,\"InstalledApps\":[]},\"callsign\":\"NO CALLSIGN\",\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"uF767Q14NML4336\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"armor\":0,\"fitbit\":[],\"jobrep\":{\"hotdog\":0,\"tow\":0,\"taxi\":0,\"trucker\":0}}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"level\":0,\"name\":\"none\"}}","charinfo":"{\"phone\":\"1139303271\",\"birthdate\":\"1998-12-05\",\"account\":\"US01QBCore9958450332\",\"backstory\":\"placeholder backstory\",\"gender\":0,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Khashayar\",\"nationality\":\"iran\"}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 197 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 207 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 165 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;75m[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-mechanicjob took 769ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE player_vehicles SET drivingdistance = ? WHERE plate = ? [396.88267254829407,"5AE662SU"]
+[38;5;42m[      script:oxmysql] [WARNING] qb-mechanicjob took 298ms to execute a query!
+[38;5;42m[      script:oxmysql]         UPDATE player_vehicles SET drivingdistance = ? WHERE plate = ? [768.7190525531769,"5AE662SU"]
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 165 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-binds.
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-bind.
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-bind.
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 255 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] blade (Citizen ID: HPE81703) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 145 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;24m[    script:qb-houses] SCRIPT ERROR: @qb-houses/server/main.lua:359: attempt to compare nil with number
+[38;5;24m[    script:qb-houses] > TriggerCallback (@qb-core/server/functions.lua:133)
+[38;5;24m[    script:qb-houses] > handler (@qb-core/server/events.lua:116)
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;24m[    script:qb-houses] SCRIPT ERROR: @qb-houses/server/main.lua:359: attempt to compare nil with number
+[38;5;24m[    script:qb-houses] > TriggerCallback (@qb-core/server/functions.lua:133)
+[38;5;24m[    script:qb-houses] > handler (@qb-core/server/events.lua:116)
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] blade (Citizen ID: HPE81703) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] iMfarzam (Citizen ID: QNA31711) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Can't restart a stopped resource.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 897 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] is loading into the server
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: blade[license:e4d04c931036266745236ae6cb6d545cd3e4fa35] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] iMfarzam (Citizen ID: QNA31711) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] blade (Citizen ID: HPE81703) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 217 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 243 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 143 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 157 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 186 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;42m[      script:oxmysql] [WARNING] qb-core took 203ms to execute a query!
+[38;5;42m[      script:oxmysql]         INSERT INTO players (citizenid, cid, license, name, money, charinfo, job, gang, position, metadata) VALUES (:citizenid, :cid, :license, :name, :money, :charinfo, :job, :gang, :position, :metadata) ON DUPLICATE KEY UPDATE cid = :cid, name = :name, money = :money, charinfo = :charinfo, job = :job, gang = :gang, position = :position, metadata = :metadata {"money":"{\"bank\":1000000061680,\"cash\":36,\"crypto\":0}","job":"{\"label\":\"Real Estate\",\"onduty\":true,\"isboss\":true,\"payment\":150,\"name\":\"realestate\",\"grade\":{\"level\":4,\"name\":\"Manager\"}}","name":"iMfarzam","position":"{\"x\":412.4307861328125,\"y\":-979.97802734375,\"z\":29.4146728515625}","citizenid":"QNA31711","license":"license:a3a28e2be2fc70d86ea13c556c66a84811faaeae","cid":1,"metadata":"{\"bloodtype\":\"A-\",\"phone\":[],\"armor\":0,\"criminalrecord\":{\"hasRecord\":true,\"date\":{\"hour\":14,\"year\":2021,\"isdst\":false,\"wday\":1,\"yday\":346,\"sec\":32,\"day\":12,\"min\":35,\"month\":12}},\"tracker\":false,\"jailitems\":[],\"ishandcuffed\":false,\"walletid\":\"QB-85475674\",\"craftingrep\":0,\"inlaststand\":false,\"stress\":0,\"callsign\":\"NO CALLSIGN\",\"hunger\":57.99999999999997,\"injail\":0,\"currentapartment\":\"apartment1711\",\"commandbinds\":[],\"isdead\":false,\"status\":[],\"phonedata\":{\"SerialNumber\":85860494,\"InstalledApps\":[]},\"thirst\":62.00000000000003,\"licences\":{\"business\":false,\"driver\":false},\"fingerprint\":\"Gl937T82FLH6458\",\"dealerrep\":0,\"inside\":{\"apartment\":[]},\"attachmentcraftingrep\":0,\"fitbit\":[],\"jobrep\":{\"hotdog\":0,\"taxi\":0,\"tow\":0,\"trucker\":0}}","gang":"{\"isboss\":false,\"name\":\"none\",\"label\":\"No Gang Affiliaton\",\"grade\":{\"level\":0,\"name\":\"none\"}}","charinfo":"{\"nationality\":\"Iran\",\"birthdate\":\"1985-09-25\",\"account\":\"US03QBCore7260674627\",\"backstory\":\"placeholder backstory\",\"card\":5820234242005831,\"lastname\":\"Biniaz\",\"cid\":\"1\",\"firstname\":\"Ghasem\",\"gender\":0,\"phone\":\"1529235764\"}"}
+[38;5;134m[      script:qb-core] [qb-core:LOG] blade PLAYER SAVED!
+
+================================================================
+======== FXServer starting - 12/13/2021, 9:24:06 AM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;163m[    c-resources-core] Resource loading for qb-phone failed:
+[38;5;163m[    c-resources-core] Could not open resource metadata file - no such file.
+[38;5;73m[ citizen-server-impl] Found 127 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;161m[    c-scripting-core] Creating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] Started resource oxmysql
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource qalle_coords
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-busjob
+[38;5;73m[ citizen-server-impl] Started resource qb-busjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-discordac
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-input
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-menu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-notes
+[38;5;21m[     script:qb-notes] Error loading script server/main.lua in resource qb-notes: @qb-notes/server/main.lua:46: attempt to index a nil value (global 'Framework')
+[38;5;21m[     script:qb-notes] stack traceback:
+[38;5;21m[     script:qb-notes] 	@qb-notes/server/main.lua:46: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-notes
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-teleport
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;161m[    c-scripting-core] Creating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] Started resource PolyZone
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;161m[    c-scripting-core] Creating script environments for interact-sound
+[38;5;73m[ citizen-server-impl] Started resource interact-sound
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] Started resource screenshot-basic
+[38;5;163m[    c-resources-core] Could not find dependency /onesync for resource pma-voice.
+[38;5;73m[ citizen-server-impl] Couldn't start resource pma-voice.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;17m[     script:qb-radio] Error loading script server.lua in resource qb-radio: citizen:/scripting/lua/scheduler.lua:1155: No such export addChannelCheck in resource pma-voice
+[38;5;17m[     script:qb-radio] stack traceback:
+[38;5;17m[     script:qb-radio] 	[C]: in function 'error'
+[38;5;17m[     script:qb-radio] 	citizen:/scripting/lua/scheduler.lua:1155: in metamethod 'index'
+[38;5;17m[     script:qb-radio] 	@qb-radio/server.lua:24: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;73m[ citizen-server-impl] Started resource breze_benefactor
+[38;5;73m[ citizen-server-impl] Started resource hospital_map
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb_hi.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource 2018taurusrb
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.ytd uses 146.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo_hi.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack16Explorer
+[38;5;73m[ citizen-server-impl] Asset ValorPack18Charger/18chgr.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Started resource ValorPack18Charger
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe_hi.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack20Tahoe
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.yft uses 27.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.ytd uses 47.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource benze55
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.yft uses 18.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police_hi.yft uses 17.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource rmod69police
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz1.ytd uses 35.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz_hi.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/ti_b.yft uses 24.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource sclkuz
+[38;5;73m[ citizen-server-impl] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource sr650fly
+[38;5;73m[ citizen-server-impl] Started resource qua_lspd
+[38;5;73m[ citizen-server-impl] Started resource hub_loading
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;154m[   script:mapmanager] Started map fivem-map-skater
+[38;5;73m[ citizen-server-impl] Started resource fivem-map-skater
+[38;5;42m[      script:oxmysql] Database server connection established!
+[38;5;133m[     script:dpemotes] 
+[38;5;133m[     script:dpemotes] dp Emotes (dpemotes) is up to date. (173)
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;42m[      script:oxmysql] A patch is available for oxmysql - please update to the latest release (current version: 1.8.0)
+[38;5;42m[      script:oxmysql]    - https://github.com/overextended/oxmysql/releases/download/v1.8.7/oxmysql-v1.8.7.zip
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://barrett1-jvpark.users.cfx.re/
+[38;5;75m[      net-tcp-server] Proxy error: could not get rpuuid: redis: nil
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: iMfarzam[license:a3a28e2be2fc70d86ea13c556c66a84811faaeae] is loading into the server
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] iMfarzam (Citizen ID: QNA31711) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-phone.
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 142 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 329 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-phone.
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-phone.
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 126 resources.
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 190 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-phone.
+[38;5;73m[ citizen-server-impl] Couldn't find resource qb-phone.
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 1 resources, and refreshed 126 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 590 milliseconds
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;172m[     script:qb-phone] Error loading script server/main.lua in resource qb-phone: @qb-phone/server/main.lua:13: attempt to index a nil value (global 'QBCore')
+[38;5;172m[     script:qb-phone] stack traceback:
+[38;5;172m[     script:qb-phone] 	@qb-phone/server/main.lua:13: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 841 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;78m[              cmdsys] No such command rfresh.
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 617 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;172m[     script:qb-phone] Error loading script server/main.lua in resource qb-phone: @qb-phone/server/main.lua:46: attempt to index a nil value (global 'QBCore')
+[38;5;172m[     script:qb-phone] stack traceback:
+[38;5;172m[     script:qb-phone] 	@qb-phone/server/main.lua:46: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 542 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;172m[     script:qb-phone] Error loading script server/main.lua in resource qb-phone: @qb-phone/server/main.lua:43: attempt to index a nil value (global 'QBCore')
+[38;5;172m[     script:qb-phone] stack traceback:
+[38;5;172m[     script:qb-phone] 	@qb-phone/server/main.lua:43: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 798 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 179 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 209 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 236 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 601 milliseconds
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+[38;5;84m[      script:monitor] [txAdminClient] Kicking #1 with reason: [txAdmin] (mahyar_barrett) Kick reason: restart
+[38;5;134m[      script:qb-core] [qb-core:LOG] iMfarzam PLAYER SAVED!
+
+================================================================
+======== FXServer starting - 12/13/2021, 10:47:43 AM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 127 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 4.4.2 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[38;5;73m[ citizen-server-impl] Started resource baseevents
+[38;5;161m[    c-scripting-core] Creating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] Started resource oxmysql
+[38;5;73m[ citizen-server-impl] Started resource progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for connectqueue
+[38;5;173m[ script:connectqueue] QUEUE:  [connectqueue] Disabling hardcap 
+[38;5;73m[ citizen-server-impl] Stopping resource hardcap
+[38;5;73m[ citizen-server-impl] Started resource connectqueue
+[38;5;161m[    c-scripting-core] Creating script environments for qb-core
+[38;5;73m[ citizen-server-impl] Started resource qb-core
+[38;5;73m[ citizen-server-impl] Started resource qalle_coords
+[38;5;73m[ citizen-server-impl] Started resource menuv
+[38;5;161m[    c-scripting-core] Creating script environments for qb-adminmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-adminmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-afk
+[38;5;73m[ citizen-server-impl] Started resource qb-afk
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource qb-ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-anticheat
+[38;5;73m[ citizen-server-impl] Started resource qb-interior
+[38;5;161m[    c-scripting-core] Creating script environments for qb-clothing
+[38;5;73m[ citizen-server-impl] Started resource qb-clothing
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weathersync
+[38;5;73m[ citizen-server-impl] Started resource qb-weathersync
+[38;5;161m[    c-scripting-core] Creating script environments for qb-apartments
+[38;5;73m[ citizen-server-impl] Started resource qb-apartments
+[38;5;161m[    c-scripting-core] Creating script environments for qb-atms
+[38;5;73m[ citizen-server-impl] Started resource qb-atms
+[38;5;161m[    c-scripting-core] Creating script environments for qb-banking
+[38;5;73m[ citizen-server-impl] Started resource qb-banking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bankrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-bankrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-blackjack
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset qb-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource qb-blackjack
+[38;5;161m[    c-scripting-core] Creating script environments for qb-bossmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-bossmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-builderjob
+[38;5;73m[ citizen-server-impl] Started resource qb-builderjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-busjob
+[38;5;73m[ citizen-server-impl] Started resource qb-busjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-casino
+[38;5;73m[ citizen-server-impl] Started resource qb-casino
+[38;5;161m[    c-scripting-core] Creating script environments for qb-cityhall
+[38;5;73m[ citizen-server-impl] Started resource qb-cityhall
+[38;5;161m[    c-scripting-core] Creating script environments for qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource qb-commandbinding
+[38;5;73m[ citizen-server-impl] Started resource mhacking
+[38;5;161m[    c-scripting-core] Creating script environments for qb-crypto
+[38;5;73m[ citizen-server-impl] Started resource qb-crypto
+[38;5;161m[    c-scripting-core] Creating script environments for qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-customs
+[38;5;73m[ citizen-server-impl] Started resource qb-discordac
+[38;5;161m[    c-scripting-core] Creating script environments for qb-diving
+[38;5;73m[ citizen-server-impl] Started resource qb-diving
+[38;5;161m[    c-scripting-core] Creating script environments for qb-doorlock
+[38;5;73m[ citizen-server-impl] Started resource qb-doorlock
+[38;5;161m[    c-scripting-core] Creating script environments for qb-drugs
+[38;5;73m[ citizen-server-impl] Started resource qb-drugs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-fitbit
+[38;5;73m[ citizen-server-impl] Started resource qb-fitbit
+[38;5;161m[    c-scripting-core] Creating script environments for qb-gangmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-gangmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garages
+[38;5;73m[ citizen-server-impl] Started resource qb-garages
+[38;5;161m[    c-scripting-core] Creating script environments for qb-garbagejob
+[38;5;73m[ citizen-server-impl] Started resource qb-garbagejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hotdogjob
+[38;5;73m[ citizen-server-impl] Started resource qb-hotdogjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houserobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-houserobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-houses
+[38;5;73m[ citizen-server-impl] Started resource qb-houses
+[38;5;161m[    c-scripting-core] Creating script environments for qb-hud
+[38;5;73m[ citizen-server-impl] Started resource qb-hud
+[38;5;161m[    c-scripting-core] Creating script environments for qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-ifruitstore
+[38;5;73m[ citizen-server-impl] Started resource qb-input
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weapons
+[38;5;73m[ citizen-server-impl] Started resource qb-weapons
+[38;5;161m[    c-scripting-core] Creating script environments for qb-inventory
+[38;5;73m[ citizen-server-impl] Started resource qb-inventory
+[38;5;161m[    c-scripting-core] Creating script environments for qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-jewelery
+[38;5;73m[ citizen-server-impl] Started resource qb-keyminigame
+[38;5;161m[    c-scripting-core] Creating script environments for qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lapraces
+[38;5;73m[ citizen-server-impl] Started resource qb-lockpick
+[38;5;161m[    c-scripting-core] Creating script environments for qb-logs
+[38;5;73m[ citizen-server-impl] Started resource qb-logs
+[38;5;161m[    c-scripting-core] Creating script environments for qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource qb-menu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-spawn
+[38;5;73m[ citizen-server-impl] Started resource qb-spawn
+[38;5;161m[    c-scripting-core] Creating script environments for qb-multicharacter
+[38;5;73m[ citizen-server-impl] Started resource qb-multicharacter
+[38;5;161m[    c-scripting-core] Creating script environments for qb-newsjob
+[38;5;73m[ citizen-server-impl] Started resource qb-newsjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-notes
+[38;5;21m[     script:qb-notes] Error loading script server/main.lua in resource qb-notes: @qb-notes/server/main.lua:46: attempt to index a nil value (global 'Framework')
+[38;5;21m[     script:qb-notes] stack traceback:
+[38;5;21m[     script:qb-notes] 	@qb-notes/server/main.lua:46: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-notes
+[38;5;161m[    c-scripting-core] Creating script environments for qb-pawnshop
+[38;5;73m[ citizen-server-impl] Started resource qb-pawnshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-policejob
+[38;5;73m[ citizen-server-impl] Started resource qb-policejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-prison
+[38;5;73m[ citizen-server-impl] Started resource qb-prison
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radialmenu
+[38;5;73m[ citizen-server-impl] Started resource qb-radialmenu
+[38;5;161m[    c-scripting-core] Creating script environments for qb-recyclejob
+[38;5;73m[ citizen-server-impl] Started resource qb-recyclejob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scoreboard
+[38;5;73m[ citizen-server-impl] Started resource qb-scoreboard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-scrapyard
+[38;5;73m[ citizen-server-impl] Started resource qb-scrapyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-shops
+[38;5;73m[ citizen-server-impl] Started resource qb-skillbar
+[38;5;161m[    c-scripting-core] Creating script environments for qb-smallresources
+[38;5;73m[ citizen-server-impl] Started resource qb-smallresources
+[38;5;161m[    c-scripting-core] Creating script environments for qb-storerobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-storerobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-streetraces
+[38;5;73m[ citizen-server-impl] Started resource qb-streetraces
+[38;5;161m[    c-scripting-core] Creating script environments for qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-taxijob
+[38;5;73m[ citizen-server-impl] Started resource qb-teleport
+[38;5;161m[    c-scripting-core] Creating script environments for qb-towjob
+[38;5;73m[ citizen-server-impl] Started resource qb-towjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-traphouse
+[38;5;73m[ citizen-server-impl] Started resource qb-traphouse
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckerjob
+[38;5;73m[ citizen-server-impl] Started resource qb-truckerjob
+[38;5;161m[    c-scripting-core] Creating script environments for qb-truckrobbery
+[38;5;73m[ citizen-server-impl] Started resource qb-truckrobbery
+[38;5;161m[    c-scripting-core] Creating script environments for qb-tunerchip
+[38;5;73m[ citizen-server-impl] Started resource qb-tunerchip
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclefailure
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclefailure
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclekeys
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclekeys
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehiclesales
+[38;5;73m[ citizen-server-impl] Started resource qb-vehiclesales
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource qb-vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for qb-vineyard
+[38;5;73m[ citizen-server-impl] Started resource qb-vineyard
+[38;5;161m[    c-scripting-core] Creating script environments for qb-weed
+[38;5;73m[ citizen-server-impl] Started resource qb-weed
+[38;5;161m[    c-scripting-core] Creating script environments for LegacyFuel
+[38;5;73m[ citizen-server-impl] Started resource LegacyFuel
+[38;5;161m[    c-scripting-core] Creating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] Started resource PolyZone
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for dpemotes
+[38;5;133m[     script:dpemotes] [dp] Sql Keybinding is turned off, if you want to enable /emotebind, import dpkeybinding.sql and set SqlKeybinding = true in config.lua.
+[38;5;73m[ citizen-server-impl] Started resource dpemotes
+[38;5;161m[    c-scripting-core] Creating script environments for interact-sound
+[38;5;73m[ citizen-server-impl] Started resource interact-sound
+[38;5;73m[ citizen-server-impl] Started resource safecracker
+[38;5;161m[    c-scripting-core] Creating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] Started resource screenshot-basic
+[38;5;163m[    c-resources-core] Could not find dependency /onesync for resource pma-voice.
+[38;5;73m[ citizen-server-impl] Couldn't start resource pma-voice.
+[38;5;161m[    c-scripting-core] Creating script environments for qb-radio
+[38;5;17m[     script:qb-radio] Error loading script server.lua in resource qb-radio: citizen:/scripting/lua/scheduler.lua:1155: No such export addChannelCheck in resource pma-voice
+[38;5;17m[     script:qb-radio] stack traceback:
+[38;5;17m[     script:qb-radio] 	[C]: in function 'error'
+[38;5;17m[     script:qb-radio] 	citizen:/scripting/lua/scheduler.lua:1155: in metamethod 'index'
+[38;5;17m[     script:qb-radio] 	@qb-radio/server.lua:24: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-radio
+[38;5;73m[ citizen-server-impl] Started resource breze_benefactor
+[38;5;73m[ citizen-server-impl] Started resource hospital_map
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb.ytd uses 208.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset 2018taurusrb/2018taurusrb_hi.yft uses 19.4 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource 2018taurusrb
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo.ytd uses 146.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack16Explorer/expo_hi.yft uses 22.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack16Explorer
+[38;5;73m[ citizen-server-impl] Asset ValorPack18Charger/18chgr.ytd uses 95.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Started resource ValorPack18Charger
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe.ytd uses 128.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset ValorPack20Tahoe/20tahoe_hi.yft uses 22.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource ValorPack20Tahoe
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.yft uses 27.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset benze55/benze55.ytd uses 47.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource benze55
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.yft uses 18.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset rmod69police/rmod69police_hi.yft uses 17.1 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource rmod69police
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz1.ytd uses 35.5 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/sclkuz_hi.yft uses 26.8 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Asset sclkuz/ti_b.yft uses 24.9 MiB of virtual memory.
+[38;5;73m[ citizen-server-impl] Started resource sclkuz
+[38;5;73m[ citizen-server-impl] Asset sr650fly/sr650fly.ytd uses 17.0 MiB of physical memory.
+[38;5;73m[ citizen-server-impl] Started resource sr650fly
+[38;5;73m[ citizen-server-impl] Started resource qua_lspd
+[38;5;73m[ citizen-server-impl] Started resource hub_loading
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;154m[   script:mapmanager] Started map fivem-map-hipster
+[38;5;73m[ citizen-server-impl] Started resource fivem-map-hipster
+[38;5;42m[      script:oxmysql] Database server connection established!
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://barrett1-jvpark.users.cfx.re/
+[38;5;75m[      net-tcp-server] Proxy error: could not get rpuuid: LOADING Redis is loading the dataset in memory
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;42m[      script:oxmysql] A patch is available for oxmysql - please update to the latest release (current version: 1.8.0)
+[38;5;42m[      script:oxmysql]    - https://github.com/overextended/oxmysql/releases/download/v1.8.7/oxmysql-v1.8.7.zip
+[38;5;133m[     script:dpemotes] SCRIPT ERROR: @dpemotes/Server/Updates.lua:21: attempt to compare number with nil
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] was placed 1/1 in queue
+[38;5;173m[ script:connectqueue] QUEUE: BARRETT[license:b0d63d0b9e45091ff9e68330da0f3f8c4ffe7437] is loading into the server
+[38;5;75m[      net-tcp-server] Proxy error: could not get rpuuid: redis: nil
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;133m[script:qb-multichara] [qb-core] BARRETT (Citizen ID: LBH36723) has succesfully loaded!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 218 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 230 milliseconds
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 0 resources, and refreshed 127 resources.
+[38;5;73m[ citizen-server-impl] Stopping resource qb-phone
+[38;5;161m[    c-scripting-core] Creating script environments for qb-phone
+[38;5;172m[     script:qb-phone] Error loading script server/main.lua in resource qb-phone: @qb-phone/server/main.lua:43: attempt to index a nil value (global 'QBCore')
+[38;5;172m[     script:qb-phone] stack traceback:
+[38;5;172m[     script:qb-phone] 	@qb-phone/server/main.lua:43: in main chunk
+[38;5;161m[    c-scripting-core] Failed to load script server/main.lua.
+[38;5;161m[    c-scripting-core] Failed to load script @qb-garages/SharedConfig.lua.
+[38;5;73m[ citizen-server-impl] Started resource qb-phone
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 792 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[38;5;134m[      script:qb-core] [qb-core:LOG] BARRETT PLAYER SAVED!

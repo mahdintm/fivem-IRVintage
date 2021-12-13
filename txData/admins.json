@@ -1,0 +1,37 @@
+[
+  {
+    "name": "mahyar_barrett",
+    "master": true,
+    "password_hash": "$2a$11$vxeGmNbyal8SmwRrs.AJmOGzUoY4AwY1aPwdNdffUDyF8VX9LIHPC",
+    "providers": {
+      "citizenfx": {
+        "id": "mahyar_barrett",
+        "identifier": "fivem:5180029",
+        "data": {
+          "sub": "e4b43f7125b3522b3c2124d0c151bf8c",
+          "nameid": "https://forum.cfx.re/internal/user/5180029",
+          "name": "mahyar_barrett",
+          "picture": "https://avatars.discourse.org/v4/letter/m/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/mahyar_barrett"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "mahyar",
+    "master": false,
+    "password_hash": "$2a$11$r1B6oJ9Wrjpm28JB6VYkque92PBcApp0zaFvntNHF6yRSafuQQZLG",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "826415610404667414",
+        "identifier": "discord:826415610404667414",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

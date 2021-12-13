@@ -1,0 +1,220 @@
+
+================================================================
+======== txAdmin starting - 12/12/2021, 6:45:10 AM
+================================================================
+[06:59:19][127.0.0.1][mahyar_barrett] Changing global settings via setup stepper and started Deployer.
+[06:59:26][127.0.0.1][mahyar_barrett] Setting recipe.
+[07:00:14][127.0.0.1][mahyar_barrett] Running recipe.
+[07:07:49][127.0.0.1][mahyar_barrett] Configured server.cfg from deployer.
+[07:07:49][127.0.0.1][mahyar_barrett] Completed and committed server deploy.
+[07:12:15][127.0.0.1][mahyar_barrett] RESTART SERVER
+[07:18:47][127.0.0.1][mahyar_barrett] RESTART SERVER
+[07:21:18][127.0.0.1][mahyar_barrett] RESTART SERVER
+[07:29:20][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[07:29:25][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[07:32:52][127.0.0.1][mahyar_barrett] refresh
+[07:52:10][127.0.0.1][mahyar_barrett] DM to #4: salam
+[08:01:52][127.0.0.1][mahyar_barrett] DM to #6: salam
+[08:03:32][127.0.0.1][mahyar_barrett] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 12/12/2021, 8:04:38 AM
+================================================================
+[08:27:11][127.0.0.1][mahyar_barrett] restart discord.lua
+[08:36:10][127.0.0.1][mahyar_barrett] Adding admin 'mahyar'.
+[08:43:20][127.0.0.1][mahyar_barrett] restart qb-policejob
+[08:44:37][127.0.0.1][mahyar_barrett] restart qb-policejob
+[08:45:41][127.0.0.1][mahyar_barrett] restart qb-policejob
+[08:50:53][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:51:07][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:51:14][127.0.0.1][mahyar_barrett] refresh
+[08:51:21][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:52:47][127.0.0.1][mahyar_barrett] stop qb-policejob
+[08:52:52][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:53:36][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:53:38][127.0.0.1][mahyar_barrett] stop qb-policejob
+[08:53:41][127.0.0.1][mahyar_barrett] start qb-policejob
+[08:58:45][127.0.0.1][mahyar_barrett] stop qb-policejob
+[08:58:48][127.0.0.1][mahyar_barrett] start qb-policejob
+[09:28:08][127.0.0.1][mahyar_barrett] refresh
+[09:28:18][127.0.0.1][mahyar_barrett] start qb-police
+[09:28:50][127.0.0.1][mahyar_barrett] start qb-police
+[09:59:29][127.0.0.1][mahyar_barrett] txaBroadcast "mahyar_barrett" "agha weather enghadar taghir nade begu raftam"
+[10:09:18][127.0.0.1][mahyar_barrett] txaBroadcast "mahyar_barrett" "HBD 7251"
+[10:09:51][127.0.0.1][mahyar_barrett] refresh
+[10:10:05][127.0.0.1][mahyar_barrett] start benze55
+[10:16:18][127.0.0.1][mahyar_barrett] stop qb-phone
+[10:21:21][127.0.0.1][mahyar_barrett] DM to #25: benze55 alan be bache ha nade
+[11:31:24][127.0.0.1][mahyar_barrett] refresh
+[11:31:34][127.0.0.1][mahyar_barrett] start qb-phone
+[11:40:21][127.0.0.1][mahyar_barrett] RESTART SERVER
+[11:50:00][127.0.0.1][mahyar_barrett] RESTART SERVER
+[11:56:46][127.0.0.1][mahyar_barrett] stop qb-phone
+[11:56:57][127.0.0.1][mahyar_barrett] start qb-phone
+[12:01:40][127.0.0.1][mahyar_barrett] stop qb-phone
+[12:01:49][127.0.0.1][mahyar_barrett] start qb-phone
+[12:04:53][127.0.0.1][mahyar_barrett] stop qb-phone
+[12:04:56][127.0.0.1][mahyar_barrett] refresh
+[12:05:01][127.0.0.1][mahyar_barrett] start qb-phone
+[12:14:47][127.0.0.1][mahyar_barrett] restart qb-phone
+[12:18:11][127.0.0.1][mahyar_barrett] restart qb-phone
+[12:24:25][127.0.0.1][mahyar_barrett] restart qb-phone
+[12:35:23][127.0.0.1][mahyar_barrett] RESTART SERVER
+[12:45:00][127.0.0.1][mahyar_barrett] restart qb-phone
+[12:45:00][127.0.0.1][mahyar_barrett] restart qb-phone
+[12:46:02][127.0.0.1][mahyar_barrett] RESTART SERVER
+[12:57:01][127.0.0.1][mahyar_barrett] stop qb-phone
+[12:57:04][127.0.0.1][mahyar_barrett] start qb-phone
+[12:58:20][127.0.0.1][mahyar_barrett] stop qb-phone
+[12:58:22][127.0.0.1][mahyar_barrett] start qb-phone
+[13:05:03][127.0.0.1][mahyar_barrett] refresh
+[13:05:13][127.0.0.1][mahyar_barrett] stop qb-phone
+[13:05:15][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:05:27][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:05:35][127.0.0.1][mahyar_barrett] refresh
+[13:05:39][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:05:46][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:05:51][127.0.0.1][mahyar_barrett] refresh
+[13:05:53][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:06:05][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:09:25][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:09:35][127.0.0.1][mahyar_barrett] restart qb-phone2
+[13:09:44][127.0.0.1][mahyar_barrett] refresh
+[13:11:01][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:11:04][127.0.0.1][mahyar_barrett] refresh
+[13:11:13][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:12:27][127.0.0.1][mahyar_barrett] start qb-phone
+[13:23:34][127.0.0.1][mahyar_barrett] stop qb-policejob
+[13:23:43][127.0.0.1][mahyar_barrett] start qb-policejob
+[13:29:01][127.0.0.1][mahyar_barrett] refresh
+[13:29:06][127.0.0.1][mahyar_barrett] start qalle_coords
+[13:33:12][127.0.0.1][mahyar_barrett] refresh
+[13:33:15][127.0.0.1][mahyar_barrett] refresh
+[13:33:19][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:33:31][127.0.0.1][mahyar_barrett] stop qb-phone2
+[13:33:34][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:36:19][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:36:23][127.0.0.1][mahyar_barrett] stop qb-phone2
+[13:36:25][127.0.0.1][mahyar_barrett] start qb-phone2
+[13:41:07][127.0.0.1][mahyar_barrett] start benze55
+[13:44:02][127.0.0.1][mahyar_barrett] restart qb-policejob
+[13:44:52][127.0.0.1][mahyar_barrett] stop qb-phone
+[14:04:57][127.0.0.1][mahyar_barrett] refresh
+[14:05:05][127.0.0.1][mahyar_barrett] start 2018taurusrb
+[14:08:05][127.0.0.1][mahyar_barrett] refresh
+[14:08:22][127.0.0.1][mahyar_barrett] RESTART SERVER
+[14:11:23][127.0.0.1][mahyar_barrett] start [car]
+[14:20:24][127.0.0.1][mahyar_barrett] refresh
+[14:20:27][127.0.0.1][mahyar_barrett] start rmod69police
+[14:33:17][127.0.0.1][mahyar_barrett] refresh
+[14:36:33][127.0.0.1][mahyar_barrett] refresh
+[14:36:40][127.0.0.1][mahyar_barrett] start sr650fly
+[14:51:18][127.0.0.1][mahyar_barrett] refresh
+[14:51:26][127.0.0.1][mahyar_barrett] start sclkuz
+
+================================================================
+======== txAdmin starting - 12/13/2021, 2:19:20 AM
+================================================================
+
+================================================================
+======== txAdmin starting - 12/13/2021, 2:20:33 AM
+================================================================
+[02:22:33][127.0.0.1][mahyar_barrett] Changing discordBot settings.
+[02:22:41][127.0.0.1][mahyar_barrett] Changing discordBot settings.
+[02:24:21][127.0.0.1][mahyar_barrett] RESTART SERVER
+[02:26:03][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:26:45][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:27:06][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:27:26][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:27:35][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:27:48][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:28:04][127.0.0.1][mahyar_barrett] RESTART SERVER
+[02:31:54][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:31:59][127.0.0.1][mahyar_barrett] Editing server CFG File.
+[02:34:52][127.0.0.1][mahyar_barrett] RESTART SERVER
+[02:37:46][127.0.0.1][mahyar_barrett] RESTART SERVER
+[02:43:59][127.0.0.1][mahyar_barrett] RESTART SERVER
+[02:48:04][127.0.0.1][mahyar_barrett] stop qb-phone2
+[02:51:50][127.0.0.1][mahyar_barrett] RESTART SERVER
+[03:12:04][127.0.0.1][mahyar_barrett] RESTART SERVER
+[03:15:23][127.0.0.1][mahyar_barrett] stop qb-teleport
+
+================================================================
+======== txAdmin starting - 12/13/2021, 3:16:40 AM
+================================================================
+[03:27:51][127.0.0.1][mahyar_barrett] stop qb-policejob
+[03:31:17][127.0.0.1][mahyar_barrett] start qb-policejob
+[04:02:40][127.0.0.1][mahyar_barrett] start [maping]
+[04:02:51][127.0.0.1][mahyar_barrett] refresh]
+[04:03:01][127.0.0.1][mahyar_barrett] refresh
+[04:03:04][127.0.0.1][mahyar_barrett] start [maping]
+
+================================================================
+======== txAdmin starting - 12/13/2021, 4:30:16 AM
+================================================================
+[04:37:52][127.0.0.1][mahyar_barrett] stop sportracer
+[04:53:09][127.0.0.1][mahyar_barrett] restart qb-policejob
+[06:12:23][127.0.0.1][mahyar_barrett] refresh
+[06:12:26][127.0.0.1][mahyar_barrett] start qua_lspd
+[06:15:23][127.0.0.1][mahyar_barrett] stop R1-KsaPD
+[06:25:13][127.0.0.1][mahyar_barrett] restart qb-doorlock
+[06:27:24][127.0.0.1][mahyar_barrett] restart qb-doorlock
+[06:47:10][127.0.0.1][mahyar_barrett] restart qb-policejob
+[06:49:20][127.0.0.1][mahyar_barrett] restart qb-policejob
+[07:43:51][127.0.0.1][mahyar_barrett] stop qb-binds
+[07:43:58][127.0.0.1][mahyar_barrett] stop qb-bind
+[07:44:07][127.0.0.1][mahyar_barrett] stop qb-bind
+[08:29:46][127.0.0.1][mahyar_barrett] restart qb-phone
+[08:34:27][127.0.0.1][mahyar_barrett] restart qb-phone
+[08:39:38][127.0.0.1][mahyar_barrett] stop qb-phone
+[08:43:57][127.0.0.1][mahyar_barrett] start qb-phone
+[08:49:22][127.0.0.1][mahyar_barrett] stop qb-phone
+[08:51:29][127.0.0.1][mahyar_barrett] start qb-phone
+[08:53:02][127.0.0.1][mahyar_barrett] stop qb-phone
+[09:01:46][127.0.0.1][mahyar_barrett] restart qb-phone
+[09:01:58][127.0.0.1][mahyar_barrett] start qb-phone
+[09:09:17][127.0.0.1][mahyar_barrett] stop qb-phone
+[09:22:25][127.0.0.1][mahyar_barrett] start qb-phone
+[09:23:52][127.0.0.1][mahyar_barrett] start qb-phone
+[09:24:04][127.0.0.1][mahyar_barrett] RESTART SERVER
+[09:28:30][127.0.0.1][mahyar_barrett] start qb-phone
+[09:36:11][127.0.0.1][mahyar_barrett] start qb-phone
+[09:39:16][127.0.0.1][mahyar_barrett] stop qb-phone
+[09:39:47][127.0.0.1][mahyar_barrett] refresh
+[09:42:53][127.0.0.1][mahyar_barrett] start qb-phone
+[09:43:50][127.0.0.1][mahyar_barrett] start qb-phone
+[09:45:10][127.0.0.1][mahyar_barrett] refresh
+[09:45:22][127.0.0.1][mahyar_barrett] start qb-phone
+[09:45:37][127.0.0.1][mahyar_barrett] stop qb-phone
+[09:46:23][127.0.0.1][mahyar_barrett] refresh
+[09:46:35][127.0.0.1][mahyar_barrett] refresh
+[09:46:42][127.0.0.1][mahyar_barrett] start qb-phone
+[09:48:02][127.0.0.1][mahyar_barrett] rfresh
+[09:48:07][127.0.0.1][mahyar_barrett] refresh
+[09:48:15][127.0.0.1][mahyar_barrett] start qb-phone
+[09:48:51][127.0.0.1][mahyar_barrett] start qb-phone
+[09:50:39][127.0.0.1][mahyar_barrett] refresh
+[09:50:49][127.0.0.1][mahyar_barrett] start qb-phone
+[09:51:15][127.0.0.1][mahyar_barrett] restart qb-phone
+[09:53:14][127.0.0.1][mahyar_barrett] refresh
+[09:53:24][127.0.0.1][mahyar_barrett] restart qb-phone
+[09:55:15][127.0.0.1][mahyar_barrett] stop qb-phone
+[09:55:24][127.0.0.1][mahyar_barrett] start qb-phone
+[09:56:05][127.0.0.1][mahyar_barrett] stop qb-phone
+[10:00:15][127.0.0.1][mahyar_barrett] refresh
+[10:00:30][127.0.0.1][mahyar_barrett] start qb-phone
+[10:03:06][127.0.0.1][mahyar_barrett] start qb-phone
+[10:03:19][127.0.0.1][mahyar_barrett] restart qb-phone
+[10:07:51][127.0.0.1][mahyar_barrett] start qb-phone
+[10:07:59][127.0.0.1][mahyar_barrett] restart qb-phone
+[10:25:20][127.0.0.1][mahyar_barrett] refresh
+[10:25:32][127.0.0.1][mahyar_barrett] restart qb-phone
+[10:27:42][127.0.0.1][mahyar_barrett] restart qb-phone
+[10:41:43][127.0.0.1][mahyar_barrett] restart qb-phone
+[10:42:01][127.0.0.1][mahyar_barrett] stop qb-phone
+[10:42:19][127.0.0.1][mahyar_barrett] start qb-phone
+[10:47:30][127.0.0.1][mahyar_barrett] Kicked #1: restart
+[10:47:41][127.0.0.1][mahyar_barrett] RESTART SERVER
+[10:48:51][127.0.0.1][mahyar_barrett] refresh
+[11:05:28][127.0.0.1][mahyar_barrett] refresh
+[11:05:35][127.0.0.1][mahyar_barrett] restart qb-phone
